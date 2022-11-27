@@ -1,0 +1,30 @@
+{
+  "id": "3794293",
+  "name": "第三周作业",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "27499717",
+      "name": "左移-04",
+      "font_class": "zuoyi-04",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "17810459",
+      "name": "icon_感叹号中",
+      "font_class": "icon_gantanhaozhong",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "24858527",
+      "name": "注意 感叹号",
+      "font_class": "Rrl_s_074",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
